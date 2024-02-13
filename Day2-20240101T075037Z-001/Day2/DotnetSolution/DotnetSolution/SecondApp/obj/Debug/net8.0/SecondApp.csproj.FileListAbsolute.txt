@@ -1,0 +1,14 @@
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\bin\Debug\net8.0\SecondApp.exe
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\bin\Debug\net8.0\SecondApp.deps.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\bin\Debug\net8.0\SecondApp.runtimeconfig.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\bin\Debug\net8.0\SecondApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\bin\Debug\net8.0\SecondApp.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\SecondApp.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\SecondApp.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\SecondApp.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\SecondApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\refint\SecondApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\SecondApp.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\SecondApp.genruntimeconfig.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SecondApp\obj\Debug\net8.0\ref\SecondApp.dll

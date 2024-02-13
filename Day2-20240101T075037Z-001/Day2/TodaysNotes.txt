@@ -1,0 +1,21 @@
+
+.net CLI Commands
+
+	dotnet new sln-------------------solution
+	dotnet new console -o  testapp---------------console application
+	dotnet new classlib -o BOL--------------reusable class library
+	dotnet new web -o MinimalWebAp-------------------simple rest api
+	dotnet new webapp -o TestPagesApp------------razor pages web application
+	dotnet new mvc -o Portal-------------------MVC based web application
+	dotnet new webapi -o RESTAPI ----------------perfect web api
+
+	jdbc-------------------------ado.net
+	hibernate---------------------entity Framework
+
+
+	Steps for .net solution
+	1.Create solution
+	2.Create project
+	3.Add project into existing solution
+	4.build project
+	5.run project

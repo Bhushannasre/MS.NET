@@ -1,0 +1,11 @@
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\bin\Debug\net8.0\SAL.deps.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\bin\Debug\net8.0\SAL.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\bin\Debug\net8.0\SAL.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\obj\Debug\net8.0\SAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\obj\Debug\net8.0\SAL.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\obj\Debug\net8.0\SAL.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\obj\Debug\net8.0\SAL.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\obj\Debug\net8.0\SAL.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\obj\Debug\net8.0\refint\SAL.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\obj\Debug\net8.0\SAL.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day2\DotnetSolution\SAL\obj\Debug\net8.0\ref\SAL.dll

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondApp", "SecondApp\SecondApp.csproj", "{321ED81A-371D-472F-ABA5-BFBC709F3FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{3C6D7E89-C1D6-45B4-99EF-BE7212728932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{F9BF93A1-F1C8-4152-8F8C-3708A11E77B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D7690D40-8A35-4A93-BB13-3E9AA5D759BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAL", "SAL\SAL.csproj", "{B9907249-81DF-476C-8196-F96FD54A545B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLShoppingPortal", "TFLShoppingPortal\TFLShoppingPortal.csproj", "{128BB8E3-E831-4AD7-A7BF-5D508D75D782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLSPAPortal", "TFLSPAPortal\TFLSPAPortal.csproj", "{5913F467-2618-4628-9840-3109D6DAF33C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321ED81A-371D-472F-ABA5-BFBC709F3FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321ED81A-371D-472F-ABA5-BFBC709F3FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321ED81A-371D-472F-ABA5-BFBC709F3FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321ED81A-371D-472F-ABA5-BFBC709F3FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6D7E89-C1D6-45B4-99EF-BE7212728932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6D7E89-C1D6-45B4-99EF-BE7212728932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6D7E89-C1D6-45B4-99EF-BE7212728932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6D7E89-C1D6-45B4-99EF-BE7212728932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BF93A1-F1C8-4152-8F8C-3708A11E77B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BF93A1-F1C8-4152-8F8C-3708A11E77B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BF93A1-F1C8-4152-8F8C-3708A11E77B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BF93A1-F1C8-4152-8F8C-3708A11E77B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7690D40-8A35-4A93-BB13-3E9AA5D759BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7690D40-8A35-4A93-BB13-3E9AA5D759BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7690D40-8A35-4A93-BB13-3E9AA5D759BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7690D40-8A35-4A93-BB13-3E9AA5D759BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9907249-81DF-476C-8196-F96FD54A545B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9907249-81DF-476C-8196-F96FD54A545B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9907249-81DF-476C-8196-F96FD54A545B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9907249-81DF-476C-8196-F96FD54A545B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128BB8E3-E831-4AD7-A7BF-5D508D75D782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128BB8E3-E831-4AD7-A7BF-5D508D75D782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128BB8E3-E831-4AD7-A7BF-5D508D75D782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128BB8E3-E831-4AD7-A7BF-5D508D75D782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5913F467-2618-4628-9840-3109D6DAF33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5913F467-2618-4628-9840-3109D6DAF33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5913F467-2618-4628-9840-3109D6DAF33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5913F467-2618-4628-9840-3109D6DAF33C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
